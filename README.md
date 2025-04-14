@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deepanshuDPS
-- 👀 I’m interested in self growth by developing new things.
-- 🌱 I’m currently learning application development.
-- 💞️ I will like to help others in my development field.
+- 👀 Expoloring and Developing something new.
+- 🌱 Frontend engineer and App developer.
 
 <!---
 deepanshuDPS/deepanshuDPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
